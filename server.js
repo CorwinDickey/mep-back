@@ -29,7 +29,6 @@ const whitelist = [
   "https://mep-back.herokuapp.com/",
   "http://localhost:3003",
   "https://mep-front.herokuapp.com/",
-  "https://material-equipment-preservation.us.auth0.com/api/v2/"
 ];
 const corsOptions = {
   origin: function (origin, callback) {
